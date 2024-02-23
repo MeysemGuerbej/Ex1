@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Calculatrice {
+class Calculatricee {
     public static double addition(double a, double b) {
         return a + b;
     }
